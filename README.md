@@ -6,7 +6,7 @@ berikut ini adalah link image php:7.4-apache yang digunakan :
 Petunjuk :
 1. git clone pada terminal
   
-  https://github.com/aaronfr21/warfaction.git
+    https://github.com/aaronfr21/warfaction.git
 
 2. pull image dari docker hub ke terminal
 
