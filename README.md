@@ -27,8 +27,8 @@ Petunjuk :
  
 6. lalu create database dengan nama :  reaaron 
 
-  buat tabel dengan nama : cloud
+7. buat tabel dengan nama : cloud
 
-7. untuk mematikan docker ketikkan syntax berikut pada terminal :
+8. untuk mematikan docker ketikkan syntax berikut pada terminal :
 
   docker-compose stop
